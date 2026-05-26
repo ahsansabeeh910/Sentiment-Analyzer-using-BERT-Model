@@ -3,7 +3,7 @@
 
 ## Overview
 
-BERT Sentiment Analyzer is a deep learning web application that performs sentiment analysis on user-provided text using a fine-tuned BERT transformer model.
+BERT Sentiment Analyzer is a Machine learning based web application that performs sentiment analysis on user-provided text using a fine-tuned BERT transformer model.
 
 The application predicts whether the sentiment of the input text is:
 
@@ -11,7 +11,7 @@ The application predicts whether the sentiment of the input text is:
 * Negative
 * Neutral
 
-The project is built using Streamlit for the frontend and HuggingFace Transformers with PyTorch for the backend deep learning model.
+The project is built using Streamlit for the frontend and HuggingFace Transformers with PyTorch for the backend learning model.
 
 ---
 
