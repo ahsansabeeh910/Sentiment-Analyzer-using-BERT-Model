@@ -65,7 +65,7 @@ BERT_Sentiment_Analyzer/
 ### Clone Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/BERT_Sentiment_Analyzer.git
+git clone https://github.com/ahsansabeeh910/BERT_Sentiment_Analyzer.git
 ```
 
 ### Move into Project Folder
