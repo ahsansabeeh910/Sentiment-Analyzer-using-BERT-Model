@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <b>AI-Powered Sentiment Analysis using BERT and Streamlit</b>
+  <b>Sentiment Analysis using BERT and Streamlit</b>
 </p>
 
 ---
@@ -120,22 +120,10 @@ Prediction Distribution
 
 ---
 
-## Future Improvements
-
-* CSV batch sentiment analysis
-* Emotion detection
-* Dark/light theme toggle
-* Real-time Twitter sentiment analysis
-* HuggingFace deployment
-* User authentication
-
----
-
 ## Author
 
 ### Sabeeh Ahsan
 
-B.Tech Computer Science Engineering
 Jaypee Institute of Information Technology
 
 ---
