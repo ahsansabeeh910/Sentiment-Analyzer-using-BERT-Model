@@ -1,14 +1,5 @@
 # BERT Sentiment Analyzer
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/huggingface.svg" width="120">
-</p>
-
-<p align="center">
-  <b>Sentiment Analysis using BERT and Streamlit</b>
-</p>
-
----
 
 ## Overview
 
